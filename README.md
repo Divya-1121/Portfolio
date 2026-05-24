@@ -22,7 +22,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](https://portfolio-eight-opal-bdboh0ep9c.vercel.app/) in your browser.
+Open (https://portfolio-eight-opal-bdboh0ep9c.vercel.app/) in your browser.
 
 ## 📁 Add Your Profile Photo
 
